@@ -15,6 +15,12 @@ function Navbar() {
             </div>
             <div className="nav">
                 <span>The<span style={ { "color": "#03DAC5" } }>Crypt</span>&nbsp;&nbsp;|&nbsp;&nbsp;</span>
+                <div className="navs">
+                    <span className="active">Home</span>
+                    <span>Compare</span>
+                    <span>About</span>
+                    <span>Contact</span>
+                </div>
             </div>
         </div>
     )
