@@ -21,6 +21,9 @@ function Navbar() {
                     <span>About</span>
                     <span>Contact</span>
                 </div>
+                <div className="bag-btn">
+                    <button>Populate Bag</button>
+                </div>
             </div>
         </div>
     )
