@@ -23,28 +23,21 @@
 .navs {
     width: 33vw !important;
     font-size: 20px;
-    color: #FFFFFF;
     margin-top: 1vh;
-    cursor: pointer;
 
     display: flex;
     justify-content: space-between;
 }
 
-.navs > span {
+.navs span {
     letter-spacing: 2px;
     transition: all 0.1s;
 }
 
-.navs > span:hover {
+.navs span:hover {
     transform: scale(1.05);
     color: #0bb6a5;
     letter-spacing: 3px;
-}
-
-.navs > .active {
-    color: #03dac5;
-    font-weight: bold;
 }
 
 .bag-btn {
