@@ -40,6 +40,11 @@
     letter-spacing: 3px;
 }
 
+.nav-item .active {
+    color: #03dac5 !important;
+    font-weight: bold;
+}
+
 .bag-btn {
     position: absolute;
     right: 1em;
