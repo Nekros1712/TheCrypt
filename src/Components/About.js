@@ -15,13 +15,37 @@ function About() {
     return (
         <div>
             <div className="card about" style={ about }>
-                <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Aspernatur maxime temporibus molestiae accusantium nam iusto amet reiciendis laboriosam consequuntur? Quas numquam fugiat harum odio eaque nam natus minus nesciunt rem.</p>
+                <p>Heyy,&nbsp;
+                    <span style={{ "color": "#03dac5" }}>Welcome to&nbsp;
+                        <span style={{ "fontWeight": "bolder" }}>TheCrypt</span>!
+                    </span><br />
+                    Here you can get familiar to the latest ups downs of life of investors... Just kidding XD 
+                    This Web App lets you to be up to date with all happenings of crypto market 
+                    by providing you with all real time data, all thanks to Coingecko API.
+                </p>
             </div>
             <img src={ Logo } style={ logo } alt="Logo"></img>
             <div className="role">Developer</div>
             <img src={ Hero } style={ { ...hero, "borderRadius": "50%" } } alt="Logo"></img>
 			<div className="card about" style={ dev }>
-                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Sapiente aliquam ducimus illum aperiam, qui quibusdam.</p>
+                <p>Myself,&nbsp;
+                    <span style={{ "color": "#03dac5", "fontWeight": "bolder" }}>
+                        Samprit Chaurasiya
+                    </span>,<br />
+                    a Web Development aficionado studying Bachelor of Engineering<br /> @
+                    <a
+                        href="http://siesgst.edu.in"
+                        style={{ "color": "#03dac5" }}>
+                        SIESGST, Navi Mumbai
+                    </a><br />
+                    <span style={{ "fontSize": "20px" }}>Contribute to this project&nbsp;
+                        <a
+                            href="https://github.com/Samprit1712/TheCrypt"
+                            style={{ "color": "#03dac5", "textDecoration": "none" }}>
+                            here
+                        </a>
+                    </span>
+                </p>
             </div>
         </div>
     )
