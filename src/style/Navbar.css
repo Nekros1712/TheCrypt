@@ -1,0 +1,69 @@
+.navStyle {
+    position: absolute;
+    margin: 3vh 0vw 0vh 2vw;
+    display: flex;
+    justify-content: center;
+}
+
+.logo {
+    height: 7vh;
+    width: 5vw;
+    margin-top: -1vh;
+}
+
+.nav {
+    width: 90vw !important;
+    color: #FFFFFF;
+    font-size: 40px;
+    margin-top: -2vh;
+    display: flex;
+    align-items: center;
+}
+
+.navs {
+    width: 33vw !important;
+    font-size: 20px;
+    margin-top: 1vh;
+
+    display: flex;
+    justify-content: space-between;
+}
+
+.navs span {
+    letter-spacing: 2px;
+    transition: all 0.1s;
+}
+
+.navs span:hover {
+    transform: scale(1.05);
+    color: #0bb6a5;
+    letter-spacing: 3px;
+}
+
+.nav-item .active {
+    color: #03dac5 !important;
+    font-weight: bold;
+}
+
+.bag-btn {
+    position: absolute;
+    right: 1em;
+    margin-top: -1vh;
+}
+
+.bag-btn > button {
+    font-size: 17px;
+    font-weight: bold;
+    background: #03dac5;
+    cursor: pointer;
+    color: black;
+    border: none;
+    border-radius: 7px;
+    padding: 5px 10px;
+
+    transition: all 0.1s;
+}
+
+.bag-btn > button:hover {
+    transform: scale(1.03, 1.05);
+}
