@@ -11,7 +11,7 @@ function Contact() {
             <span className="quote">Don't Feel Shy<br />To Say Hi !</span>
 
             <div className="socials">
-                <a href="https://github.com/Samprit1712" target="_new" className="social">Github</a>
+                <a href="https://github.com/Nekros1712" target="_new" className="social">Github</a>
                 <a href="https://www.linkedin.com/in/sampritchaurasiya1712/" target="_new" className="social">LinkedIn</a>
                 <a href="mailto:sampritchaurasiya07@gmail.com" target="_new" className="social">Gmail</a>
                 <a href="https://www.instagram.com/samprit1712/" target="_new" className="social">Instagram</a>
