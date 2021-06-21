@@ -24,7 +24,7 @@ function Developer() {
                     </a><br />
                     <span style={{ "fontSize": "20px" }}>Contribute to this project&nbsp;
                         <a
-                            href="https://github.com/Samprit1712/TheCrypt"
+                            href="https://github.com/Nekros1712/TheCrypt"
                             style={{ "color": "#03dac5", "textDecoration": "none" }}>
                             here
                         </a>
