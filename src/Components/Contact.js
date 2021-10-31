@@ -14,6 +14,7 @@ function Contact() {
                 <a href="https://github.com/Nekros1712" target="_new" className="social">Github</a>
                 <a href="https://www.linkedin.com/in/sampritchaurasiya1712/" target="_new" className="social">LinkedIn</a>
                 <a href="mailto:sampritchaurasiya07@gmail.com" target="_new" className="social">Gmail</a>
+                <a href="https://www.behance.net/sampritchauras" target="_new" className="social">Behance</a>
                 <a href="https://www.instagram.com/samprit1712/" target="_new" className="social">Instagram</a>
             </div>
         </div>
